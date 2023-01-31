@@ -1,0 +1,16 @@
+aliyun002:
+  driverName: aliyun
+  username: admin
+  password: admin1234
+  accessKey: iDOpIJ4mqKltE0xXN877Yy6I
+  accessSecret: KQtta2d2bH1r0ONOofbxYr3HFiXrjY
+  host: 10.31.37.97
+  timeout: 2000
+
+huaweiyun002:
+  driverName: huaweiyun
+  username: user2@iiot-demo
+  password: Huawei12#$
+  domainName: hwstaff_IoTAnalytics_666
+  host: 114.116.237.144
+  timeout: 2000

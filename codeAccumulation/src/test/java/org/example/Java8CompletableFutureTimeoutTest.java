@@ -25,7 +25,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class Java8CompletableFutureTimeoutTest {
 
     /**
-     * 并行跑任务， 规定限时，多余抛弃
+     * 并行跑任务， 规定限时，多余抛弃, 可自行增加线程池进行控制
      */
     @Test
     public void testWithIn() {
